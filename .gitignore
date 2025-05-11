@@ -24,5 +24,11 @@ public/css/
 # Other IDE or editor settings that should not be versioned
 .idea/
 
-# Optional: add your custom exclusions if needed
-git add .gitignore
+# Optional: Add your custom exclusions if needed
+
+# Ignore the API build folder (if applicable)
+api/dist/
+
+# Ignore the client build folder (if applicable)
+client/build/
+
