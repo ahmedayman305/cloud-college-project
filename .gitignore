@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Tailwind CSS build folder (if applicable)
+public/css/
+
+# Other IDE or editor settings that should not be versioned
+.idea/
+
+# Optional: add your custom exclusions if needed
+git add .gitignore
